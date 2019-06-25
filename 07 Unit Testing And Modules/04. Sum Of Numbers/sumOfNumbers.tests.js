@@ -1,4 +1,4 @@
-let sum = require('./SumOfNumbers');
+let sum = require('./sumOfNumbers');
 let expect = require('chai').expect;
 let assert = require('chai').assert;
 
