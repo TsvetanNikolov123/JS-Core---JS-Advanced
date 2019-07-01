@@ -69,6 +69,8 @@ class PaymentPackage {
     }
 }
 
+module.exports = PaymentPackage;
+
 // Should throw an error
 try {
     const hrPack = new PaymentPackage('HR Services');
