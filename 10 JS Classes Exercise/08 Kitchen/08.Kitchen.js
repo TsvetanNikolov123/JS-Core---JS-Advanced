@@ -55,15 +55,13 @@ class Kitchen {
     }
 
     makeTheOrder(meal) {
-        let result = '';
         if (this.menu.hasOwnProperty(meal)) {
             let mealProducts = this.menu[meal].products;
             let allProductsAvailable = true;
+
             mealProducts.forEach((val) => {
-                // let {product, qty} = val.split(' ');
-                let tokens = val.split(' ');
-                let product = tokens[0];
-                let qty = tokens[1];
+                let [product, qty] = val.split(' ');
+
                 if (!this.productsInStock.hasOwnProperty(product)) {
                     allProductsAvailable = false;
                 } else {
@@ -72,17 +70,18 @@ class Kitchen {
                     } else {
                         allProductsAvailable = false;
                     }
-                    this.budget += this.menu[meal].price;
                 }
+                this.budget += this.menu[meal].price;
             });
-            if (allProductsAvailable === false) {
-                result = `For the time being, we cannot complete your order (${meal}), we are very sorry...`;
-            }
-        } else {
-            result = `There is not ${meal} yet in our menu, do you want to order something else?`;
-        }
 
-        return result;
+            if (allProductsAvailable === false) {
+                return `For the time being, we cannot complete your order (${meal}), we are very sorry...`;
+            }
+
+            return `Your order (${meal}) will be completed in the next 30 minutes and will cost you ${this.menu[meal].price}.`
+        } else {
+            return `There is not ${meal} yet in our menu, do you want to order something else?`;
+        }
     }
 }
 
@@ -110,3 +109,5 @@ console.log(kitchen.showTheMenu());
     frozenYogurt - $ 9.99
     Pizza - $ 15.55
  */
+
+console.log(kitchen.makeTheOrder('frozenYogurt'));
