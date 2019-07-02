@@ -1,4 +1,4 @@
-/* JS Advanced - Retake Exam: 18.11.2018      Judge -> 93/100 */
+/* JS Advanced - Retake Exam: 18.11.2018      Judge -> 100/100 */
 
 class Kitchen {
     constructor(budget) {
