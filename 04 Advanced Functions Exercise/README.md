@@ -43,7 +43,7 @@ The output should be the **sorted array**.
 
 <br/>
 
-#### Solution: <a title="01 Sort Array" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/01.SortArray.js">01 Sort Array</a>
+### Solution: <a title="01 Sort Array" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/01.SortArray.js">01 Sort Array</a>
 
 ---
 
@@ -85,7 +85,7 @@ your function.
 
 <br/>
 
-#### Solution: <a title="02 Argument Info" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/02.ArgumentInfo.js">02 Argument Info</a>
+### Solution: <a title="02 Argument Info" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/02.ArgumentInfo.js">02 Argument Info</a>
 
 ---
 
@@ -113,7 +113,7 @@ Your function needs to **return** itself with an updated context.
 
 <br/>
 
-#### Solution: <a title="03 Functional Sum" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/03.FunctionalSum.js">03 Functional Sum</a>
+### Solution: <a title="03 Functional Sum" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/03.FunctionalSum.js">03 Functional Sum</a>
 
 ---
 
@@ -173,7 +173,7 @@ Look at the sample output for more information.
 
 <br/>
 
-#### Solution: <a title="04 Personal BMI" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/04.PersonlBMI.js">04 Personal BMI</a>
+### Solution: <a title="04 Personal BMI" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/04.PersonlBMI.js">04 Personal BMI</a>
 
 ---
 
@@ -223,7 +223,7 @@ Don’t round any values.
 
 <br/>
 
-#### Solution: <a title="05 Vector Math" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/05.VectorMath.js">05 Vector Math</a>
+### Solution: <a title="05 Vector Math" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/05.VectorMath.js">05 Vector Math</a>
 
 ---
 
@@ -316,8 +316,8 @@ The **return** value of each operation is one of the following strings:
 
 <br/>
 
-#### Solution 1: <a title="06 Breakfast Robot" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/06.BreakfastRobot.js">06 Breakfast Robot</a>
-#### Solution 2: <a title="06 Breakfast Robot" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/06.01.BreakfastRobot.js">06 Breakfast Robot</a>
+### Solution 1: <a title="06 Breakfast Robot" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/06.BreakfastRobot.js">06 Breakfast Robot</a>
+### Solution 2: <a title="06 Breakfast Robot" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/06.01.BreakfastRobot.js">06 Breakfast Robot</a>
 
 ---
 
@@ -391,7 +391,7 @@ described above.
 
 <br/>
 
-#### Solution 1: <a title="07 Monkey Patcher" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/07.MonkeyPatcher.js">07 Monkey Patcher</a>
-#### Solution 2: <a title="07 Monkey Patcher" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/07.01.MonkeyPatcher.js">07 Monkey Patcher</a>
+### Solution 1: <a title="07 Monkey Patcher" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/07.MonkeyPatcher.js">07 Monkey Patcher</a>
+### Solution 2: <a title="07 Monkey Patcher" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/04%20Advanced%20Functions%20Exercise/07.01.MonkeyPatcher.js">07 Monkey Patcher</a>
 
 ---
