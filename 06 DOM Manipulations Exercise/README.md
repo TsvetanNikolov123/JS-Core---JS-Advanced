@@ -63,7 +63,7 @@ Our code is ready now. Submit only the **subtract()** function in judge.
 
 <br/>
 
-#### Solution: <a title="01 Subtraction" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/01.%20Subtraction/subtract.js">01 Subtraction</a>
+### Solution: <a title="01 Subtraction" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/01.%20Subtraction/subtract.js">01 Subtraction</a>
 
 ---
 
@@ -91,7 +91,7 @@ Your task is to take values from **input** fields with **ids "newItemText"** and
 
 <br/>
 
-#### Solution: <a title="02 Fill Dropdown" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/02.%20Fill-Dropdown/dropdown.js">02 Fill Dropdown</a>
+### Solution: <a title="02 Fill Dropdown" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/02.%20Fill-Dropdown/dropdown.js">02 Fill Dropdown</a>
 
 ---
 
@@ -130,7 +130,7 @@ infinite amount of times).
 
 <br/>
 
-#### Solution: <a title="03 Accordion" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/03.%20Accordion/accordion.js">03 Accordion</a>
+### Solution: <a title="03 Accordion" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/03.%20Accordion/accordion.js">03 Accordion</a>
 
 ---
 
@@ -149,7 +149,7 @@ to the element with an **id** "**content**".
 
 <br/>
 
-#### Solution: <a title="04 Sections" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/04.%20Sections/script.js">04 Sections</a>
+### Solution: <a title="04 Sections" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/04.%20Sections/script.js">04 Sections</a>
 
 ---
 
@@ -170,7 +170,7 @@ upper-right corner. It should **disappear** in 2 seconds.
 
 <br/>
 
-#### Solution: <a title="05 Notification" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/05.%20Notification/scripts.js">05 Notification</a>
+### Solution: <a title="05 Notification" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/05.%20Notification/scripts.js">05 Notification</a>
 
 ---
 
@@ -193,7 +193,7 @@ field value should change to 2).
 
 <br/>
 
-#### Solution: <a title="06 Time Converter" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/06.%20Time-Converter/solution.js">06 Time Converter</a>
+### Solution: <a title="06 Time Converter" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/06.%20Time-Converter/solution.js">06 Time Converter</a>
 
 ---
 
@@ -227,7 +227,7 @@ button, the new fields must hide again.
 
 <br/>
 
-#### Solution: <a title="07 Locked Profile" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/07.%20Locked-Profile/app.js">07 Locked Profile</a>
+### Solution: <a title="07 Locked Profile" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/07.%20Locked-Profile/app.js">07 Locked Profile</a>
 
 ---
 
@@ -280,7 +280,7 @@ logic** from encoding:
 
 <br/>
 
-#### Solution: <a title="08 Encode and Decode Messages" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/08.%20Encode-and-Decode-Messages/app.js">08 Encode and Decode Messages</a>
+### Solution: <a title="08 Encode and Decode Messages" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/08.%20Encode-and-Decode-Messages/app.js">08 Encode and Decode Messages</a>
 
 ---
 
@@ -324,6 +324,6 @@ value in the **disabled** output field.
 
 <br/>
 
-#### Solution: <a title="09 Distance Converter" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/09.%20Distance-Converter/distanceConverter.js">09 \* Distance Converter</a>
+### Solution: <a title="09 Distance Converter" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/06%20DOM%20Manipulations%20Exercise/09.%20Distance-Converter/distanceConverter.js">09 \* Distance Converter</a>
 
 ---
