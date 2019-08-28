@@ -51,7 +51,7 @@ JS Core: JS Essentials - June 2019 @ SoftUni
 
 ***<a title="01 List of Items" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/05%20DOM%20Manipulations#0501-list-of-items">01 List of Items</a>***
 
-***<a title="02 Add / Delete" href="">02 Add / Delete</a>***
+***<a title="02 Add / Delete" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/05%20DOM%20Manipulations#0502-add--delete">02 Add / Delete</a>***
 
 ***<a title="03 Delete from Table" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/05%20DOM%20Manipulations#0503-delete-from-table">03 Delete from Table</a>***
 
@@ -88,6 +88,71 @@ JS Core: JS Essentials - June 2019 @ SoftUni
 ***<a title="08 Encode and Decode Messages" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/06%20DOM%20Manipulations%20Exercise#0608-encode-and-decode-messages">08 Encode and Decode Messages</a>***
 
 ***<a title="09 Distance Converter" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/06%20DOM%20Manipulations%20Exercise#0609--distance-converter">09 \* Distance Converter</a>***
+
+---
+---
+
+## 07. Lab: Unit Testing and Modules
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Sub Sum" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/07%20Unit%20Testing%20And%20Modules#0701-sub-sum">01 Sub Sum</a>***
+
+***<a title="02 Playing Cards" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/07%20Unit%20Testing%20And%20Modules#0702-playing-cards">02 Playing Cards</a>***
+
+***<a title="03 Deck of Cards" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/07%20Unit%20Testing%20And%20Modules#0703-deck-of-cards">03 Deck of Cards</a>***
+
+***<a title="04 Sum of Numbers" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/07%20Unit%20Testing%20And%20Modules#0704-sum-of-numbers">04 Sum of Numbers</a>***
+
+***<a title="05 Check for Symmetry" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/07%20Unit%20Testing%20And%20Modules#0705-check-for-symmetry">05 Check for Symmetry</a>***
+
+***<a title="06 RGB to Hex" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/07%20Unit%20Testing%20And%20Modules#0706-rgb-to-hex">06 RGB to Hex</a>***
+
+***<a title="07 Add / Subtract" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/07%20Unit%20Testing%20And%20Modules#0707-add--subtract">07 Add / Subtract</a>***
+
+---
+---
+
+## 08. Exercise: Unit Testing and Modules
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Request Validator" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/08%20Unit%20Testing%20And%20Modules%20Exercise#0801-request-validator">01 Request Validator</a>***
+
+***<a title="02 Even or Odd" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/08%20Unit%20Testing%20And%20Modules%20Exercise#0802-even-or-odd">02 Even or Odd</a>***
+
+***<a title="03 Char Lookup" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/08%20Unit%20Testing%20And%20Modules%20Exercise#0803-char-lookup">03 Char Lookup</a>***
+
+***<a title="04 Math Enforcer" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/08%20Unit%20Testing%20And%20Modules%20Exercise#0804-math-enforcer">04 Math Enforcer</a>***
+
+---
+---
+
+## 09. Lab: JS Classes
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="" href=""></a>***
+
+***<a title="" href=""></a>***
+
+***<a title="" href=""></a>***
+
+***<a title="" href=""></a>***
+
+***<a title="" href=""></a>***
+
+***<a title="" href=""></a>***
+
+***<a title="" href=""></a>***
+
+***<a title="" href=""></a>***
+
+***<a title="" href=""></a>***
+
 
 
 
