@@ -49,6 +49,45 @@ JS Core: JS Essentials - June 2019 @ SoftUni
 ### Tasks Requirements And Solutions
 <br>
 
-***<a title="" href=""></a>***
+***<a title="01 List of Items" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/05%20DOM%20Manipulations#0501-list-of-items">01 List of Items</a>***
+
+***<a title="02 Add / Delete" href="">02 Add / Delete</a>***
+
+***<a title="03 Delete from Table" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/05%20DOM%20Manipulations#0503-delete-from-table">03 Delete from Table</a>***
+
+***<a title="04 Stopwatch" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/05%20DOM%20Manipulations#0504-stopwatch">04 Stopwatch</a>***
+
+***<a title="05 Mouse Gradient" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/05%20DOM%20Manipulations#0505-mouse-gradient">05 Mouse Gradient</a>***
+
+***<a title="06 Highlight Active" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/05%20DOM%20Manipulations#0506-highlight-active">06 Highlight Active</a>***
+
+***<a title="07 Dynamic Validation" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/05%20DOM%20Manipulations#0507-dynamic-validation">07 Dynamic Validation</a>***
+
+---
+---
+
+## 06. Exercise: DOM Manipulations
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Subtraction" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/06%20DOM%20Manipulations%20Exercise#0601-subtraction">01 Subtraction</a>***
+
+***<a title="02 Fill Dropdown" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/06%20DOM%20Manipulations%20Exercise#0602-fill-dropdown">02 Fill Dropdown</a>***
+
+***<a title="03 Accordion" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/06%20DOM%20Manipulations%20Exercise#0603-accordion">03 Accordion</a>***
+
+***<a title="04 Sections" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/06%20DOM%20Manipulations%20Exercise#0604-sections">04 Sections</a>***
+
+***<a title="05 Notification" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/06%20DOM%20Manipulations%20Exercise#0605-notification">05 Notification</a>***
+
+***<a title="06 Time Converter" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/06%20DOM%20Manipulations%20Exercise#0606-time-converter">06 Time Converter</a>***
+
+***<a title="07 Locked Profile" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/06%20DOM%20Manipulations%20Exercise#0607-locked-profile">07 Locked Profile</a>***
+
+***<a title="08 Encode and Decode Messages" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/06%20DOM%20Manipulations%20Exercise#0608-encode-and-decode-messages">08 Encode and Decode Messages</a>***
+
+***<a title="09 Distance Converter" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/06%20DOM%20Manipulations%20Exercise#0609--distance-converter">09 \* Distance Converter</a>***
+
 
 
