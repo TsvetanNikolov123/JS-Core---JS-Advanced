@@ -142,7 +142,7 @@ Submit the class definition as is, **without** wrapping it in any function.
 
 <br/>
 
-### Solution: <a title="04 Circle" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/09%20JS%20Classes/04%20Circle">04 Circle</a>
+### Solution: <a title="04 Circle" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/09%20JS%20Classes/04%20Circle/04.Circle.js">04 Circle</a>
 
 ---
 
