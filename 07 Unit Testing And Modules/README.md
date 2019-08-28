@@ -8,7 +8,9 @@ Problems for exercises and homework for the ["JavaScript Advanced" course \@
 SoftUni](https://softuni.bg/courses/js-advanced). Submit your solutions in the
 SoftUni judge system at
 <https://judge.softuni.bg/Contests/1531/Lab-Unit-Testing>.
+
 ---
+
 Error Handling
 ==============
 
