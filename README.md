@@ -135,23 +135,47 @@ JS Core: JS Essentials - June 2019 @ SoftUni
 ### Tasks Requirements And Solutions
 <br>
 
-***<a title="" href=""></a>***
+***<a title="01 Rectangle" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/09%20JS%20Classes#0901-rectangle">01 Rectangle</a>***
 
-***<a title="" href=""></a>***
+***<a title="02 Person" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/09%20JS%20Classes#0902-person">02 Person</a>***
 
-***<a title="" href=""></a>***
+***<a title="03 Get Persons" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/09%20JS%20Classes#0903-get-persons">03 Get Persons</a>***
 
-***<a title="" href=""></a>***
+***<a title="04 Circle" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/09%20JS%20Classes#0904-circle">04 Circle</a>***
 
-***<a title="" href=""></a>***
+***<a title="05 Point Distance" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/09%20JS%20Classes#0905-point-distance">05 Point Distance</a>***
 
-***<a title="" href=""></a>***
+***<a title="06 Cards" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/09%20JS%20Classes#0906-cards">06 Cards</a>***
 
-***<a title="" href=""></a>***
+***<a title="07 String Builder" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/09%20JS%20Classes#0907-string-builder">07 String Builder</a>***
 
-***<a title="" href=""></a>***
+***<a title="08 Payment Package" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/09%20JS%20Classes#0908-payment-package">08 Payment Package</a>***
 
-***<a title="" href=""></a>***
+---
+---
+
+## 10. Exercise: JS Classes
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Data Class" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/10%20JS%20Classes%20Exercise#1001-data-class">01 Data Class</a>***
+
+***<a title="02 Tickets" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/10%20JS%20Classes%20Exercise#1002-tickets">02 Tickets</a>***
+
+***<a title="03 Unity" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/10%20JS%20Classes%20Exercise#1003-unity">03 Unity</a>***
+
+***<a title="04 Length Limit" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/10%20JS%20Classes%20Exercise#1004-length-limit">04 Length Limit</a>***
+
+***<a title="05 Extensible Class" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/10%20JS%20Classes%20Exercise#1005-extensible-class">05 \*Extensible Class</a>***
+
+***<a title="06 Sorted List" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/10%20JS%20Classes%20Exercise#1006-sorted-list">06 Sorted List</a>***
+
+***<a title="07 Instance Validation" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/10%20JS%20Classes%20Exercise#1007-instance-validation">07 Instance Validation</a>***
+
+***<a title="08 Kitchen" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/10%20JS%20Classes%20Exercise#1008-kitchen">08 \*\*Kitchen</a>***
+
+***<a title="09 Warehouse - Unit Testing" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/10%20JS%20Classes%20Exercise#1009-warehouse---unit-testing">09 \*\*Warehouse - Unit Testing</a>***
 
 
 
