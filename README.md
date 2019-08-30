@@ -177,6 +177,58 @@ JS Core: JS Essentials - June 2019 @ SoftUni
 
 ***<a title="09 Warehouse - Unit Testing" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/10%20JS%20Classes%20Exercise#1009-warehouse---unit-testing">09 \*\*Warehouse - Unit Testing</a>***
 
+---
+---
+
+## 11. Lab: Object Composition
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Order Rectangles" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/11%20Object%20Composition#1101-order-rectangles">01 Order Rectangles</a>***
+
+***<a title="02 Fibonacci" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/11%20Object%20Composition#1102-fibonacci">02 Fibonacci</a>***
+
+***<a title="03 List Processor" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/11%20Object%20Composition#1103-list-processor">03 List Processor</a>***
+
+***<a title="04 Cars" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/11%20Object%20Composition#1104-cars">04 Cars</a>***
+
+***<a title="05 Sum" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/11%20Object%20Composition#1105-sum">05 Sum</a>***
+
+---
+---
+
+## 12. Exercise: Object Composition
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Array Extension" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/12%20Object%20Composition%20Exercise#1201-array-extension">01 Array Extension</a>***
+
+***<a title="02 Construction Crew" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/12%20Object%20Composition%20Exercise#1202-construction-crew">02 Construction Crew</a>***
+
+***<a title="03 Car Factory" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/12%20Object%20Composition%20Exercise#1203-car-factory">03 Car Factory</a>***
+
+***<a title="04 Extensible Object" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/12%20Object%20Composition%20Exercise#1204-extensible-object">04 Extensible Object</a>***
+
+***<a title="05 String Extension" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/12%20Object%20Composition%20Exercise#1205-string-extension">05 String Extension</a>***
+
+***<a title="06 Sorted List" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/12%20Object%20Composition%20Exercise#1206-sorted-list">06 \*Sorted List</a>***
+
+***<a title="07 DOM Highlighter" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/12%20Object%20Composition%20Exercise#1207-dom-highlighter">07 DOM Highlighter</a>***
+
+***<a title="08 Bug Tracker" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/12%20Object%20Composition%20Exercise#1208--bug-tracker">08 \*Bug Tracker</a>***
+
+---
+---
+
+## 14. Exam Preparation I
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="" href=""></a>***
+
 
 
 
