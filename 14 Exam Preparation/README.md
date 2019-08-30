@@ -70,6 +70,10 @@ successfully a new product to the warehouse list:
 
 <img src="https://user-images.githubusercontent.com/32310938/64027611-bc142a00-cb49-11e9-8d6d-77a7431593a1.png" alt="alt text" width="600" height="">
 
+<br/>
+
+### Solution: <a title="01 Form Acceptance" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/14%20Exam%20Preparation/01%20Form%20Acceptance/scripts/app.js">01 Form Acceptance</a>
+
 ---
 
 
@@ -184,6 +188,10 @@ the description and examples!**
 | **Output 3**                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Miss Elizabeth will take 4 children on trip to Dubai<br/> Grade: 5<br/> 1. Gosho-3000<br/> 2. Tanya-5000<br/><br/> Grade: 7<br/> 1. Pesho-4000<br/><br/> Grade: 10<br/> 1. Mitko-5500                                                                                                                                                                                                                                                                                                                   |
 
+<br/>
+
+### Solution: <a title="02 Vacation" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/14%20Exam%20Preparation/02%20Vacation/02.Vacation.js">02 Vacation</a>
+
 ---
 
 14.03 SoftUniFy (Unit Testing)
@@ -256,3 +264,9 @@ template:
 **If at first look, you do not understand exactly how a certain function works,
 just do your own tests by calling it to find out exactly what result
 returns...**
+
+<br/>
+
+### Solution: <a title="03 SoftUniFy (Unit Testing)" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/blob/master/14%20Exam%20Preparation/03%20Softunify/Softunify.tests.js">03 SoftUniFy (Unit Testing)</a>
+
+---
