@@ -227,8 +227,25 @@ JS Core: JS Essentials - June 2019 @ SoftUni
 ### Tasks Requirements And Solutions
 <br>
 
-***<a title="" href=""></a>***
+***<a title="01 Form Acceptance" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/14%20Exam%20Preparation#1401-form-acceptance">01 Form Acceptance</a>***
 
+***<a title="02 Vacation" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/14%20Exam%20Preparation#1402-vacation">02 Vacation</a>***
+
+***<a title="03 SoftUniFy (Unit Testing)" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/14%20Exam%20Preparation#1403-softunify-unit-testing">03 SoftUniFy (Unit Testing)</a>***
+
+---
+---
+
+## 16. Exam Preparation II
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01. Coffee Bill" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/16%20Exam%20Preparation#1601-coffee-bill">01. Coffee Bill</a>***
+
+***<a title="02 Film Studio" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/16%20Exam%20Preparation#1602-film-studio">02 Film Studio</a>***
+
+***<a title="03 Hotel" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/16%20Exam%20Preparation#1603-hotel">03 Hotel</a>***
 
 
 
