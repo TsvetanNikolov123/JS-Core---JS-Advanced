@@ -241,11 +241,27 @@ JS Core: JS Essentials - June 2019 @ SoftUni
 ### Tasks Requirements And Solutions
 <br>
 
-***<a title="01. Coffee Bill" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/16%20Exam%20Preparation#1601-coffee-bill">01. Coffee Bill</a>***
+***<a title="01 Coffee Bill" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/16%20Exam%20Preparation#1601-coffee-bill">01 Coffee Bill</a>***
 
 ***<a title="02 Film Studio" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/16%20Exam%20Preparation#1602-film-studio">02 Film Studio</a>***
 
 ***<a title="03 Hotel" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/16%20Exam%20Preparation#1603-hotel">03 Hotel</a>***
 
+---
+---
+
+## 17. Exam
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 SoftDo (DOM Manipulation)" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/17%20Exam#1701-softdo-dom-manipulation">01 SoftDo (DOM Manipulation)</a>***
+
+***<a title="02 PizzUni" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/17%20Exam#1702-pizzuni">02 PizzUni</a>***
+
+***<a title="03 Computer" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Advanced/tree/master/17%20Exam#1703-computer">03 Computer</a>***
+
+---
+---
 
 
